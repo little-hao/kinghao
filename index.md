@@ -61,9 +61,8 @@
 
        </tr>
       <header><tr>
-          <td>&nbsp; </td>
-         <input type="submit" name="Submit" value="提交"></td>
-         <input type="reset" name="Submit2" value="重置"></td>
+         <input type="submit" name="Submit" value="提交"><td>&nbsp; </td>
+         <input type="reset" name="Submit2" value="重置"><td>&nbsp; </td>
       </tr></header>
     </table>
   </form>
